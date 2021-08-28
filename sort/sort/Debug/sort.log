@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\C practice\sort\sort\Source.c(362,7): warning C4101: 'listP': unreferenced local variable
+  sort.vcxproj -> D:\C practice\sort\Debug\sort.exe

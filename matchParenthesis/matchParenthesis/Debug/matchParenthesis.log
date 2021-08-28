@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\C practice\matchParenthesis\matchParenthesis\Source.c(119,16): warning C4018: '<': signed/unsigned mismatch
+  matchParenthesis.vcxproj -> D:\C practice\matchParenthesis\Debug\matchParenthesis.exe

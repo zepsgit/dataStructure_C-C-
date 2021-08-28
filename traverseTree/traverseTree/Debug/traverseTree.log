@@ -1,0 +1,6 @@
+﻿  Source.c
+D:\C practice\traverseTree\traverseTree\Source.c(30,19): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+D:\C practice\traverseTree\traverseTree\Source.c(31,12): warning C4047: '=': 'int' differs in levels of indirection from 'node *'
+D:\C practice\traverseTree\traverseTree\Source.c(37,15): warning C4047: '=': 'node *' differs in levels of indirection from 'int'
+D:\C practice\traverseTree\traverseTree\Source.c(71,13): warning C4047: 'return': 'node *' differs in levels of indirection from 'int'
+  traverseTree.vcxproj -> D:\C practice\traverseTree\Debug\traverseTree.exe

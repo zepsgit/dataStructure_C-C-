@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\C practice\infix2Postfix\infix2Postfix\Source.c(14,7): warning C4101: 'c': unreferenced local variable
+  infix2Postfix.vcxproj -> D:\C practice\infix2Postfix\Debug\infix2Postfix.exe

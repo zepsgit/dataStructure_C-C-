@@ -1,0 +1,11 @@
+﻿  Source.c
+D:\C practice\concatList\concatList\Source.c(87,30): error C2037: left of 'next' specifies undefined struct/union 'node'
+D:\C practice\concatList\concatList\Source.c(91,30): error C2037: left of 'data' specifies undefined struct/union 'node'
+D:\C practice\concatList\concatList\Source.c(91,44): error C2037: left of 'data' specifies undefined struct/union 'node'
+D:\C practice\concatList\concatList\Source.c(92,37): error C2037: left of 'data' specifies undefined struct/union 'node'
+D:\C practice\concatList\concatList\Source.c(93,30): error C2037: left of 'data' specifies undefined struct/union 'node'
+D:\C practice\concatList\concatList\Source.c(93,44): error C2037: left of 'data' specifies undefined struct/union 'node'
+D:\C practice\concatList\concatList\Source.c(94,28): error C2037: left of 'data' specifies undefined struct/union 'node'
+D:\C practice\concatList\concatList\Source.c(96,32): error C2037: left of 'next' specifies undefined struct/union 'node'
+D:\C practice\concatList\concatList\Source.c(98,32): error C2037: left of 'next' specifies undefined struct/union 'node'
+D:\C practice\concatList\concatList\Source.c(78,1): warning C4133: 'initializing': incompatible types - from 'node *' to 'node *'

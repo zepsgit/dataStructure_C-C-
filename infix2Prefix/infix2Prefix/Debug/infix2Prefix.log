@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\C practice\infix2Prefix\infix2Prefix\Source.c(54,16): warning C4018: '<': signed/unsigned mismatch
+  infix2Prefix.vcxproj -> D:\C practice\infix2Prefix\Debug\infix2Prefix.exe

@@ -1,0 +1,12 @@
+﻿  Source.c
+D:\C practice\dataStructure\dataStructure\Source.c(171,23): warning C4047: 'function': 'node **' differs in levels of indirection from 'node *'
+D:\C practice\dataStructure\dataStructure\Source.c(171,18): warning C4024: 'DeletePos': different types for formal and actual parameter 1
+D:\C practice\dataStructure\dataStructure\Source.c(190,22): warning C4047: 'function': 'node *' differs in levels of indirection from 'node **'
+D:\C practice\dataStructure\dataStructure\Source.c(190,16): warning C4024: 'ReverseList': different types for formal and actual parameter 1
+D:\C practice\dataStructure\dataStructure\Source.c(199,19): warning C4047: 'function': 'node **' differs in levels of indirection from 'node *'
+D:\C practice\dataStructure\dataStructure\Source.c(199,14): warning C4024: 'EraseList': different types for formal and actual parameter 1
+D:\C practice\dataStructure\dataStructure\Source.c(275,21): warning C4028: formal parameter 1 different from declaration
+D:\C practice\dataStructure\dataStructure\Source.c(326,26): warning C4028: formal parameter 1 different from declaration
+D:\C practice\dataStructure\dataStructure\Source.c(382,23): warning C4028: formal parameter 1 different from declaration
+D:\C practice\dataStructure\dataStructure\Source.c(302): warning C4715: 'DeletePos': not all control paths return a value
+  dataStructure.vcxproj -> D:\C practice\dataStructure\Debug\dataStructure.exe

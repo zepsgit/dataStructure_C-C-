@@ -1,0 +1,5 @@
+﻿  Source.c
+D:\C practice\circularQue\circularQue\Source.c(30,17): warning C4013: 'delete' undefined; assuming extern returning int
+D:\C practice\circularQue\circularQue\Source.c(53): warning C4716: 'insert': must return a value
+D:\C practice\circularQue\circularQue\Source.c(88): warning C4715: 'disp': not all control paths return a value
+  circularQue.vcxproj -> D:\C practice\circularQue\Debug\circularQue.exe

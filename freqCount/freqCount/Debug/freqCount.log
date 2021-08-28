@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\C practice\freqCount\freqCount\Source.c(53,21): warning C4047: 'function': 'int' differs in levels of indirection from 'char [50]'
+D:\C practice\freqCount\freqCount\Source.c(53,17): warning C4024: 'tolower': different types for formal and actual parameter 1
+  freqCount.vcxproj -> D:\C practice\freqCount\Debug\freqCount.exe
